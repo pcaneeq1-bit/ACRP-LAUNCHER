@@ -1,12 +1,10 @@
 {
   "serverName": "Athlon City Roleplay",
   "shortName": "ACRP",
-  "serverIp": "Test",
-  "serverPort": "Test",
-  "serverStatus": "down",
-  "adminUser": "Aneeq Pc",
-  "adminPass": "Pcaneeq11",
-  "configUrl": "",
+  "serverIp": "127.0.0.1",
+  "serverPort": "22003",
+  "serverStatus": "maintenance",
+  "configUrl": "https://raw.githubusercontent.com/pcaneeq1-bit/ACRP-LAUNCHER/refs/heads/main/config.json",
   "announcements": [
     {
       "id": 1,
@@ -28,13 +26,6 @@
       "date": "July 7, 2026",
       "summary": "Show off your rides at the Los Santos Airport hangar this Friday.",
       "content": "Calling all car enthusiasts! We are hosting our first official Car Meet at the airport hangar this Friday at 8:00 PM Server Time. There will be custom tuning showcases, drift competitions, and a grand prize of $50,000 in-game cash for the best looking vehicle. See you there!"
-    },
-    {
-      "id": 4,
-      "title": "Compiled Version Active",
-      "date": "July 9, 2026",
-      "summary": "The launcher has been compiled into a standalone EXE.",
-      "content": "Players can now run the launcher from the standalone ACRP Launcher.exe. Settings are saved locally and persist!"
     }
   ]
 }
