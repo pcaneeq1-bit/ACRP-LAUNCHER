@@ -1,0 +1,40 @@
+{
+  "serverName": "Athlon City Roleplay",
+  "shortName": "ACRP",
+  "serverIp": "127.0.0.1",
+  "serverPort": "22003",
+  "serverStatus": "down",
+  "adminUser": "Aneeq Pc",
+  "adminPass": "Pcaneeq11",
+  "configUrl": "",
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Welcome to Athlon City Roleplay!",
+      "date": "July 9, 2026",
+      "summary": "Join our official beta test and help shape the future of Athlon City.",
+      "content": "Welcome to the official launch of ACRP! We are now in open beta testing. Explore the city, apply for jobs (Police, EMS, Mechanic, or Taxi), buy properties, and build your character. Please join our Discord to report bugs and suggest new features!"
+    },
+    {
+      "id": 2,
+      "title": "Economy Update & Balance Patch",
+      "date": "July 8, 2026",
+      "summary": "Adjustments to job payouts, vehicle pricing, and property taxes.",
+      "content": "To maintain a fair and challenging roleplay experience, we have tuned the economy. High-tier jobs like EMS and Police now earn an additional 15% bonus per shift. Starting vehicle costs in the dealership have been reduced by 10%, and property tax rates have been lowered."
+    },
+    {
+      "id": 3,
+      "title": "Upcoming Community Event: Street Car Meet",
+      "date": "July 7, 2026",
+      "summary": "Show off your rides at the Los Santos Airport hangar this Friday.",
+      "content": "Calling all car enthusiasts! We are hosting our first official Car Meet at the airport hangar this Friday at 8:00 PM Server Time. There will be custom tuning showcases, drift competitions, and a grand prize of $50,000 in-game cash for the best looking vehicle. See you there!"
+    },
+    {
+      "id": 4,
+      "title": "Compiled Version Active",
+      "date": "July 9, 2026",
+      "summary": "The launcher has been compiled into a standalone EXE.",
+      "content": "Players can now run the launcher from the standalone ACRP Launcher.exe. Settings are saved locally and persist!"
+    }
+  ]
+}
