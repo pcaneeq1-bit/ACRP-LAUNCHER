@@ -1,8 +1,8 @@
 {
   "serverName": "Athlon City Roleplay",
   "shortName": "ACRP",
-  "serverIp": "127.0.0.1",
-  "serverPort": "22003",
+  "serverIp": "test",
+  "serverPort": "test",
   "serverStatus": "maintenance",
   "configUrl": "https://raw.githubusercontent.com/pcaneeq1-bit/ACRP-LAUNCHER/refs/heads/main/config.json",
   "announcements": [
