@@ -3,7 +3,7 @@
   "shortName": "ACRP",
   "serverIp": "Soon",
   "serverPort": "Soon",
-  "serverStatus": "down",
+  "serverStatus": "maintenance",
   "configUrl": "https://raw.githubusercontent.com/pcaneeq1-bit/ACRP-LAUNCHER/refs/heads/main/config.json",
   "announcements": [
     {
